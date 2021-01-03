@@ -1,4 +1,5 @@
 # OSU-ALS176-Kingston
+Professional graduate writing
 
 ## Sylabus
 [Canvas links](https://canvas.oregonstate.edu/courses/1797241/assignments/syllabus)
