@@ -1,8 +1,9 @@
 # OSU-ALS176-Kingston
-Professional graduate writing
+Professional writing for graduated students
 
 ## Sylabus
 [Canvas links](https://canvas.oregonstate.edu/courses/1797241/assignments/syllabus)
+Mr Jeff @fowlejef@oregonstate.edu
 
 ## Grade breakdowns
 
@@ -17,12 +18,26 @@ Professional graduate writing
 ## Week 1
 
 * Course Intro
-* Diagnogstic pretest
+* Diagnostic pretest
 
 ### Assignments
 
 * Readings
 
 ### Day 1 notes
+
+* Introduction to course
+* Ice breakers
+* Reading quiz
+
+#### Class summary
+
+* Group report writing
+* Aims for STEM major
+* Inclusion of group projects
+
 ### Day 2 notes
+
+* Focus on projects and quiz
+
 ### Day 3 notes
