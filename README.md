@@ -41,3 +41,19 @@ Mr Jeff @fowlejef@oregonstate.edu
 * Focus on projects and quiz
 
 ### Day 3 notes
+
+#### Rhetorical situation
+Analyzing Audience, Purpose, Author of a certain piece of Media
+Pathos, Ethos and Logos
+
+1. Analyzing audience:
+
+Avoid writing for "everybody", focus you audience
+
+Ethos: appeal to authority, for student it can also mean meta-awareness like grammar mistake (lack of) and proper use of language and citations
+
+Logos: appeal to logic, use number, goodness can't be logos
+
+Pathos: appeal to emotion, primal is better
+
+Bias (Ethos extend): Benefits to the author
