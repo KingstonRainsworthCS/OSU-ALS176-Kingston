@@ -46,7 +46,7 @@ Mr Jeff @fowlejef@oregonstate.edu
 Analyzing Audience, Purpose, Author of a certain piece of Media
 Pathos, Ethos and Logos
 
-1. Analyzing audience:
+Analyzing audience:
 
 Avoid writing for "everybody", focus you audience
 
@@ -57,3 +57,17 @@ Logos: appeal to logic, use number, goodness can't be logos
 Pathos: appeal to emotion, primal is better
 
 Bias (Ethos extend): Benefits to the author
+
+## Week 2
+
+* Audience Analysis presentation
+
+### Day 1 notes
+Presentations:
+Hung-Tung: Uber eat
+Zicong: BMW Golf
+Zhenghi Qi: Diablo 3 necromancer expansion
+Yi Li: Nahi Coffee
+Shengxuan (shawn) - Nike, Lunar New Year: The great chase
+Chengxu - Mini mooncake
+Syu-wun Wang: Taiwanese
