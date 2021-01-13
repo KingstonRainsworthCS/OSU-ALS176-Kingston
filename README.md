@@ -62,6 +62,13 @@ Bias (Ethos extend): Benefits to the author
 
 * Audience Analysis presentation
 
+
+#### Homework
+
+Read chapter 1-2 how engineers think
+Read pg 7-15 SRW
+Verb tense quiz
+
 ### Day 1 notes
 Presentations:
 Hung-Tung: Uber eat
@@ -70,4 +77,13 @@ Zhenghi Qi: Diablo 3 necromancer expansion
 Yi Li: Nahi Coffee
 Shengxuan (shawn) - Nike, Lunar New Year: The great chase
 Chengxu - Mini mooncake
-Syu-wun Wang: Taiwanese
+Syu-wun Wang: Taiwanese delicacy
+
+### Day 2 notes
+
+Verb tense used:
+
+* Present simple: permanent situation (facts)
+* Present continuous: ongoing events, exclusive now
+* Simple past: happened before, not happening now
+* Present perfect: started in the past, still happening,  relevant to now.
