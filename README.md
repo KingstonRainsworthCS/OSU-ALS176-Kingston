@@ -87,3 +87,34 @@ Verb tense used:
 * Present continuous: ongoing events, exclusive now
 * Simple past: happened before, not happening now
 * Present perfect: started in the past, still happening,  relevant to now.
+
+## Week 3
+
+Building bridges
+
+## Week 4
+
+### Day 1 notes
+
+Method section:
+
+Use passive voice when possible, especially when describing object actions. Always use past simple tense.
+
+Author guide for publishing:
+
+[Guide for Computer Science Review](https://www.elsevier.com/journals/computer-science-review/1574-0137/guide-for-authors)
+
+Section required:
+Subdivision - numbered sections
+
+1. Subdivision - numbered sections
+1. Introduction
+2. Material and methods
+3. Theory/calculation
+4. Results
+5. Discussion
+6. Conclusions
+7. Appendices
+8. Vitae
+
+NO strict citation style, must be consistence
