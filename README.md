@@ -94,6 +94,11 @@ Building bridges
 
 ## Week 4
 
+### Homework:
+Wednesday: SRW 57-67
+Wednesday: Applied Minds 4
+Friday: draft
+
 ### Day 1 notes
 
 Method section:
